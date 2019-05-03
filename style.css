@@ -23,7 +23,7 @@ float: left;
 
 li a {
 display: block;
-color:#008080;
+color:#2E337A;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
@@ -31,7 +31,7 @@ text-decoration: none;
 }
 
 li a:hover {
-background-color:White;
+background-color:#5F628E;
 }
 
 
